@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danotes-efcda": {
+      "hosting": {
+        "DAKeep": [
+          "danotes-efcda"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danotes-efcda"
+  }
+}
